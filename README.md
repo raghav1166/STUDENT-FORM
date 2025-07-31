@@ -40,7 +40,7 @@ student-form/
 
 MADE BY RAGHAV RAINA 23BCS10741
 
-Built by Asheem Khan (23BCS13395)  
+
 
 ---
 
